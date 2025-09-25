@@ -1,6 +1,6 @@
 # 🧠 MERN ThinkBoard
 
-📌 A responsive, full-stack notes app built with the MERN stack. Add, update, and delete your thoughts instantly — complete with beautiful UI, real-world features like rate limiting, and delightful UX.
+📌 A responsive, full-stack notes app built with the MERN stack. Add, update, and delete your notes instantly.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🚀 Live Link
 
-🔗 [https://mern-thinkboard-6vkm.onrender.com](https://mern-thinkboard-6vkm.onrender.com)
+🔗
 
 ---
 
