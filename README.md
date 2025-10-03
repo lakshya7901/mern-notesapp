@@ -46,3 +46,6 @@ Thanks to the following amazing tools and platforms:
 - ⚛️ [React](https://reactjs.org) – for the frontend framework  
 - ⚡ [Vite](https://vitejs.dev) – for fast frontend tooling  
 - 🎨 [DaisyUI](https://daisyui.com) – for styled components built on Tailwind
+
+- <img width="3199" height="1827" alt="image" src="https://github.com/user-attachments/assets/cdee09a7-c092-4a90-b6bc-0c187d006b74" />
+
